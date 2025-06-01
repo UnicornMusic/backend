@@ -1,0 +1,4 @@
+yarn lint-staged --allow-empty
+yarn type:check
+yarn deps:validate
+yarn test
